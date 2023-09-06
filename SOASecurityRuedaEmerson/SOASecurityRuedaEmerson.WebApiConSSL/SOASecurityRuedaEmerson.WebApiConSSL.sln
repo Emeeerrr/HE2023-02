@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOASecurityRuedaEmerson.WebApiConSSL", "SOASecurityRuedaEmerson.WebApiConSSL\SOASecurityRuedaEmerson.WebApiConSSL.csproj", "{9E153A68-20AF-472B-9380-616459C0683C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOASecurityRuedaEmerson.WebApiSinSSL", "..\SOASecurityRuedaEmerson.WebApiSinSSL\SOASecurityRuedaEmerson.WebApiSinSSL.csproj", "{9380F005-D4FD-459C-89A7-F51F62FBEBB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E153A68-20AF-472B-9380-616459C0683C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E153A68-20AF-472B-9380-616459C0683C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E153A68-20AF-472B-9380-616459C0683C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E153A68-20AF-472B-9380-616459C0683C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9380F005-D4FD-459C-89A7-F51F62FBEBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9380F005-D4FD-459C-89A7-F51F62FBEBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9380F005-D4FD-459C-89A7-F51F62FBEBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9380F005-D4FD-459C-89A7-F51F62FBEBB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD289B66-0878-4D41-8141-8087828701BD}
+	EndGlobalSection
+EndGlobal

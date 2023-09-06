@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZiDtV0gyimicXEmGrtFcS7HVFyw0fArg87m1Dsy9kic=",
+  "Source": "SOASecurityEmersonRueda.WebApiSinSSL",
+  "BasePath": "_content/SOASecurityEmersonRueda.WebApiSinSSL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

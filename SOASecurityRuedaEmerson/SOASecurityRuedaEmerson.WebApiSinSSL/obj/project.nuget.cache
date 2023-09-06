@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZVTbR19ia9S7Xl07qNZo91rGkBsSMVOIgqgZJyF+JtYb9MoXs/kUfeIgzQobDppMq8e7QD4+dUjylXNhXbYgcQ==",
+  "success": true,
+  "projectFilePath": "D:\\HackeoEtico8voSemestre\\SOASecurityRuedaEmerson\\SOASecurityRuedaEmerson.WebApiSinSSL\\SOASecurityRuedaEmerson.WebApiSinSSL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emer-\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\emer-\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\emer-\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\emer-\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\emer-\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\emer-\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

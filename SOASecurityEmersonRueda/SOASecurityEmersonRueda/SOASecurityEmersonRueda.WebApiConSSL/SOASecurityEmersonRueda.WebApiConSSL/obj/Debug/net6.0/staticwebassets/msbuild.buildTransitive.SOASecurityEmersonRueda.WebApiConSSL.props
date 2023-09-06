@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SOASecurityEmersonRueda.WebApiConSSL.props" />
+</Project>
