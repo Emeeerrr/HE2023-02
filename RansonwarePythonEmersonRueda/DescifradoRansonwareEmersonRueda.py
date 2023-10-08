@@ -8,7 +8,7 @@ import os
 
 # Cargar la llave generada
 def cargar_key():
-    return open('key_Emer.key', 'rb').read()
+    return open('keyMajo.key', 'rb').read()
 
 
 # Descifrar
@@ -35,9 +35,3 @@ if __name__=='__main__':
     #Cargar la llave
     key=cargar_key()
     descifrar(full_path, key)
-
-    file_path='D:/CifradoDescrifadoDatos/Descifrado.txt'
-
-
-    with open(file_path, 'w') as file:
-        file.write('Señor Emerson, los archivos fueron descifrados exitosamente')
