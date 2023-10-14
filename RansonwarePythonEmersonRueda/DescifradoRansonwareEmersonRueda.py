@@ -8,7 +8,7 @@ import os
 
 # Cargar la llave generada
 def cargar_key():
-    return open('keyMajo.key', 'rb').read()
+    return open('encryption_key.key', 'rb').read()
 
 
 # Descifrar
